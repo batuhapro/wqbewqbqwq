@@ -1,0 +1,40 @@
+Uri: https://accgen.cathook.club/
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\index.htm
+Content Type: text/html
+
+Uri: https://accgen.cathook.club/static/css/bootswatch.min.css
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\static\css\bootswatch.min.css
+Content Type: text/css
+
+Uri: https://accgen.cathook.club/static/favicon.ico
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\static\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://accgen.cathook.club/custom_gen.html
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\custom_gen.html
+Content Type: text/html
+
+Uri: https://accgen.cathook.club/email.html
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\email.html
+Content Type: text/html
+
+Uri: https://accgen.cathook.club/telegram.html
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\telegram.html
+Content Type: text/html
+
+Uri: https://accgen.cathook.club/static/js/common.js
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\static\js\common.js
+Content Type: application/javascript
+
+Uri: https://accgen.cathook.club/static/js/index.js
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\static\js\index.js
+Content Type: application/javascript
+
+Uri: https://accgen.cathook.club/static/js/custom_gen.js
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\static\js\custom_gen.js
+Content Type: application/javascript
+
+Uri: https://accgen.cathook.club/static/js/email.js
+File Name: c:\Downloaded Web Sites\accgen.cathook.club\static\js\email.js
+Content Type: application/javascript
+
